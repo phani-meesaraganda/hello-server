@@ -2,3 +2,4 @@ Beginner of git repo
 pursuing of git repo
 Testing git repo
 update totest2
+adding for test
